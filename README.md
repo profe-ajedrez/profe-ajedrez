@@ -5,7 +5,7 @@
 * Working as a Dev in [Bsale](https://www.bsale.cl/) using my [job account](https://github.com/areyes-bsale)
 * Dev with experience in Javascript, PHP, Ruby and Go
 * Interested in Game Dev
-* I enjoy reading and playing whit my children
-
+* I enjoy reading and playing whit my children  
+* A veces ecribo en mi viejo [blog](https://www.programadorpobre.cl/)
 
 
