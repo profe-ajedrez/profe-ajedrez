@@ -6,6 +6,6 @@
 * Dev with experience in Javascript, PHP, Ruby and Go
 * Interested in Game Dev
 * I enjoy reading and playing whit my children  
-* A veces ecribo en mi viejo [blog](https://www.programadorpobre.cl/)
+* A veces escribo en mi viejo [blog](https://www.programadorpobre.cl/)
 
 
