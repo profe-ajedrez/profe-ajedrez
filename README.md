@@ -7,5 +7,6 @@
 * Interested in Game Dev
 * I enjoy reading and playing with my children  
 * A veces escribo en mi viejo [blog](https://www.programadorpobre.cl/)
+* Nadie nos quiere
 
 
