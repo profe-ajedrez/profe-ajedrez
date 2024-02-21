@@ -15,7 +15,7 @@
 * Dev with experience in Javascript, PHP, Ruby and Go
 * Interested in Game Dev
 * I enjoy reading and playing with my children  
-* A veces escribo en mi viejo [blog](https://www.programadorpobre.cl/) o en [medium](https://medium.com/@chess.coach.ar)
+* A veces escribo en mi viejo [blog](https://www.programadorpobre.cl/) o en [medium](https://medium.com/@chess.coach.ar) o en [Gophers LATAM](https://gophers-latam.github.io/posts/)
 * Nadie nos quiere
 
 
