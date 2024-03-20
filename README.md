@@ -18,4 +18,10 @@
 * A veces escribo en mi viejo [blog](https://www.programadorpobre.cl/) o en [medium](https://medium.com/@chess.coach.ar) o en [Gophers LATAM](https://gophers-latam.github.io/posts/)
 * Nadie nos quiere
 
+[![My Skills](https://skillicons.dev/icons?i=go,ruby,rust,c)](https://skillicons.dev)
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=profe-ajedrez&show_icons=true&locale=en&layout=compact" /></p>
+
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=profe-ajedrez" /></p>
 
